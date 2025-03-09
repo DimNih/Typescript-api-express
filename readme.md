@@ -42,5 +42,7 @@ npx ts-node api.ts
 ```
 
 
-💡 **Salam Interaksi Bun...!** 🎯
+```
+
+💡 *Salam Interaksi Bun...!* 🎯
 
