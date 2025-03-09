@@ -12,7 +12,7 @@
 ### **Frontend:**
 - **HTML, CSS, JavaScript** (Antarmuka pengguna)
 
-### **Ketergantungan:**
+### **depen:**
 - **cors**
 - **express**
 - **typescript**
@@ -42,5 +42,5 @@ npx ts-node api.ts
 ```
 
 
-💡 *Salam Interaksi Bun...!* 🎯
+💡 # Salam Interaksi Bun...! 🎯
 
