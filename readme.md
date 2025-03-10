@@ -41,8 +41,8 @@ Gunakan perintah berikut untuk menjalankan server API:
 npx ts-node api.ts
 ```
 
-## 🚀 Buat File index.html
-Gunakan Masukan Kode ini ke file untuk get data api/buat interface
+## Buat File index.html
+Masukan Kode ini ke file untuk get data api/buat interface
 ```sh
 </html> <!DOCTYPE html>
 <html lang="en">
